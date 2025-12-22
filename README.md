@@ -5,29 +5,28 @@
              I love coding and hope to do it as a job someday.
              I love making games too. I am now exclusively using GDevelop, and I create games for fun. 
              I post them on platforms like Crazy Games, Poki, Itch.io, and more.
-          
+             <hr>
   <br><br>
              🔨 What I am currently working on:
              <br>-My own 3d Game Engine with C++ (only 3d) 
              <br>-My own programming language, Lua#, a frontend scripting language that looks like Lua but runs in the browser by turning into JavaScript, and it can grab data from a Node.js or Java backend SUPER fast with built-in functions. 
              <br>-My own 2d Game Engine with Java. (only 2d)
-             
+             <hr>
   <br><br>
              🌱 I am currently learning
              <br>-Data Science
              <br>-Advanced Cyber Security
              <br>-Advanced Simulations with C++
              <br>-Go/Golang<br>-Spring (Java Framework)
-             
-             
+             <hr>
   <br><br>
              🧠 What I hope to learn in the future:
              <br>-Robotics
              <br>-More physics and programming simulations that are more realistic
              <br>-More frameworks to make programming easier and smoother
              <br>-Machine Learning
-
-
+             <hr>
+             
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -58,6 +57,7 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) 
 ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NotTaco3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NotTaco3&theme=dark&hide_border=false)<br/>
