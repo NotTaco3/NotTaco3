@@ -18,13 +18,13 @@
              <br>-Advanced Cyber Security
              <br>-Advanced Simulations with C++
              <br>-Go/Golang<br>-Spring (Java Framework)
+             <br>-Advanced Machine Learnin
              <hr>
   <br><br>
              🧠 What I hope to learn in the future:
              <br>-Robotics
              <br>-More physics and programming simulations that are more realistic
              <br>-More frameworks to make programming easier and smoother
-             <br>-Machine Learning
              <hr>
              
 # 💻 Tech Stack:
