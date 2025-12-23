@@ -19,6 +19,7 @@
              <br>-Advanced Simulations with C++
              <br>-Go/Golang<br>-Spring (Java Framework)
              <br>-Advanced Machine Learning
+             <br>-Three.js
              <hr>
   <br><br>
              🧠 What I hope to learn in the future:
