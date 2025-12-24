@@ -9,7 +9,7 @@ I enjoy pushing code to its limits, I love making tools to automate things!
 
 # ❗Warning
 -What I post here isn't all of my work, just what I want to show to others!
-Thank you for understanding!
+Thank you for understanding!<br>
 -Add Taco_Develops on Discord if you want deeper work or want a developer to work on something (I can do bots, AI's, websites, apps and more!)
 
 # 🔨 What I am currently working on:
