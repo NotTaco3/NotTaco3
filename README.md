@@ -84,4 +84,5 @@ Thank you for understanding!<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=NotTaco3&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTaco3&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+.. image:: https://wakatime.com/share/@TacoDevelops/674f3b94-c7c1-420b-9972-9f1700988ae2.png
+    :target: https://wakatime.com/
