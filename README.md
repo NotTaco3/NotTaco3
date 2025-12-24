@@ -9,10 +9,9 @@ I enjoy pushing code to its limits!
 I love making tools to automate things!  
 
 # 🔨 What I am currently working on:  
-<br>-My own 3d Game Engine with C++ (only 3d)
-<br>-My own programming language, Lua# looks like Lua and compiles to JS, also has static typing!
-<br>   
-<br>-My own 2d Game Engine with Java. (only 2d)
+-My own 3d Game Engine with C++ (only 3d)<br>
+-My own programming language, Lua# looks like Lua and compiles to JS, also has static typing!<br>  
+-My own 2d Game Engine with Java. (only 2d)<br>
 # 🌱 I am currently learning:
 -Data Science<br>
 -Advanced Cyber Security<br>
