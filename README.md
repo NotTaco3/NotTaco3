@@ -73,7 +73,8 @@ Thank you for understanding!
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
 ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white)
-![Flux]<img width="1047" height="320" alt="Screenshot 2025-12-25 051130" src="https://github.com/user-attachments/assets/fdd493cf-9acb-42f0-92c5-f78d9511f9b9" />
+<img width="1047" height="320" alt="Screenshot 2025-12-25 051130" src="https://github.com/user-attachments/assets/eac9360b-f335-48fa-99d2-9129d4ab7301" />
+
 
 
 # 📊 GitHub Stats:
