@@ -16,8 +16,8 @@ I love making tools to automate things!
 # 🌱 I am currently learning:
 -Data Science<br>
 -Advanced Cyber Security<br>
--Advanced Simulations with C++ 
-<br>-Go/Golang<br>
+-Advanced Simulations with C++<br> 
+-Go/Golang<br>
 -Spring (Java Framework)<br>
 -Advanced Machine Learning<br>
 -Three.js<br>
