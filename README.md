@@ -7,6 +7,8 @@ I am now exclusively using GDevelop, and I create games for fun.
 I post them on platforms like Crazy Games, Poki, Itch.io, and more.
 I enjoy pushing code to its limits, I love making tools to automate things!
 
+# ❗What I post here isn't all of my work, just what I want to show to others!
+
 # 🔨 What I am currently working on:
 -My own 3d Game Engine with C++ (only 3d)<br>
 -My own programming language, Lua# looks like Lua and compiles to JS, also has static typing!<br>
