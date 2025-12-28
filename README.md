@@ -5,6 +5,10 @@ I love making games.
 I am now exclusively using GDevelop, and I create games for fun.
 I enjoy pushing code to its limits, and I love making tools to automate things!
 
+# 📝 What I hope to build in the future!
+-My own code editor
+-My own website, similar to Scratch but with monetization ability!
+
 # ❗Warning
 -What I post here isn't all of my work, just what I want to show to others!
 Thank you for understanding!<br>
