@@ -18,7 +18,7 @@ Thank you for understanding!<br>
 # 🔨 What I am currently working on:
 -My own 3d Game Engine with C++ (only 3d)<br>
 -My own programming language, Lua# looks like Lua and compiles to JS, also has static typing!<br>
--My own OS, made with C, Rust, Assembly, and Go!<br>
+-My own OS/Operating System, made with C, Rust, Assembly, and Go!<br>
 
 # 📜 What I have currently made:
 -This is a list of things I am willing to show!<br>
