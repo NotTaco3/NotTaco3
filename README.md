@@ -9,11 +9,10 @@ I love to collaborate with others and make projects, collaborating with my best 
 # ❗Warning
 -What I post here isn't all of my work, just what I want to show to others!
 Thank you for understanding!<br>
--Add Taco_Develops on Discord if you want deeper work or want a developer to work on something (I can do bots, AI's, websites, apps, and more!)<br
+-Add Taco_Develops on Discord if you want deeper work or want a developer to work on something (I can do bots, AI's, websites, apps, and more!)<br>
                                                                                                                                                     
  # 🔮 My Goals
  -I want to bring Lua to the web with my partner [@sahleyis](https://github.com/sahleyis). We will slowly add more and more, as we build Lua up more and more. We are planning on big things with Lua, and will not stop until Lua has a frontend, backend, and database language/framework that makes it accessible to the web!!<br>
-I want to develop my own source of green/renewable energy!<br>
 I want to become a known programmer one day, not famous, just known!<br>
 
 # 📝 What I hope to build in the future!
