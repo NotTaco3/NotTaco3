@@ -15,6 +15,7 @@ Thank you for understanding!<br>
 -My own code editor<br>
 -My own website, similar to Scratch but with monetization ability!<br>
 -My own web browser!
+-My own custom computer, in-built with Linux or my OS (potentially) built for developers/programmers with built-in code editors, terminals, and strong cybersecurity!
 
 # 🔨 What I am currently working on:
 -My own 3d Game Engine with C++ (only 3d (private project))<br>
