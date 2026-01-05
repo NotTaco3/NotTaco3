@@ -34,10 +34,7 @@ Thank you for understanding!<br>
 -Advanced Cyber Security<br>
 -Advanced Simulations with C++<br> 
 -Go/Golang<br>
--Spring (Java Framework)<br>
 -Advanced Machine Learning<br>
--Three.js<br>
--Flux, my own language made fully with Lua, for Lua, as a rival to Node.js and a way to bring Lua into web development, more info in my [repository](https://github.com/NotTaco3/Flux)
 
 # 🧠 What I hope to learn in the future:
 -Robotics<br>
