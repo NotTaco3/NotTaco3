@@ -7,8 +7,8 @@ I enjoy pushing code to its limits, and I love making tools to automate things!
 I love to collaborate with others and make projects, collaborating with my best friend [@sahleyis](https://github.com/sahleyis), working on Flux with me, and hopefully other projects in the future!
 
 # ❗Warning
--What I post here isn't all of my work, just what I want to show to others!
-Thank you for understanding!<br>
+-What I post here isn't all of my work, just what I want to show to others.<br>
+-I really like to show stuff, but lots of my projects are just for small groups of my friends, so I like to keep them private, thank you!<br>
 -Add Taco_Developz on Discord if you want deeper work or want a developer to work on something (I can do bots, AI's, websites, apps, and more!)<br>
                                                                                                                                                     
 # 📝 What I hope to build in the future!
