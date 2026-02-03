@@ -42,7 +42,6 @@ I love to collaborate with others and make projects, collaborating with my best 
 
 # 🔗 Links
 -My [Twitter](https://x.com/TacoDevelopz)<br>
--My Game's discord server, [Axelands](https://discord.gg/xcan2emk9R)<br>
 -My Roblox [account](https://www.roblox.com/users/4709716031/profile)<br>
 -Flux [website (info, updates, support, donations!)]()! < if your problems aren't solved here, please add @ taco_developz on Discord, and I can help you!
 
