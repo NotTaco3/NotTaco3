@@ -1,0 +1,11 @@
+{
+  "theme": "night-rainbow",
+  "showPrivateRepos": true,
+  "showStars": true,
+  "showForks": true,
+  "showContributions": true,
+  "showIssues": true,
+  "showPRs": true,
+  "showGists": true,
+  "animation": true
+}
