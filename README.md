@@ -16,7 +16,7 @@ Hoping to become the greatest programmer of all time one day, life-long goal.
                                                                                                                                                     
 # 📝 What I hope to build in the future!
 -My own website, similar to Scratch but with monetization ability!<br>
--My own custom computer, in-built with Linux or my OS (potentially) built for developers/programmers with built-in code editors, terminals, and strong cybersecurity!<br>
+-My own custom computer, in-built with my OS (potentially) built for developers/programmers with built-in code editors, terminals, and strong cybersecurity!<br>
 
 # 🔨 What I am currently working on:
 -My own web browser (for my OS) ~ Started 31/01/26 (private project)<br>
