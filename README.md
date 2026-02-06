@@ -16,8 +16,8 @@ I love to collaborate with others and make projects, collaborating with my best 
 -My own custom computer, in-built with Linux or my OS (potentially) built for developers/programmers with built-in code editors, terminals, and strong cybersecurity!<br>
 
 # 🔨 What I am currently working on:
--My own web browser (for my OS) ~ Started 31/01/26<br>
--My own code editor ~ Started 18/02/25<br>
+-My own web browser (for my OS) ~ Started 31/01/26 (private project)<br>
+-My own code editor ~ Started 18/02/25 (private project)<br>
 -My own 3d Game Engine with C++ (only 3d (private project))<br>
 -My own programming language, Lua# looks like Lua and compiles to JS, also has static typing! (private project)<br>
 
