@@ -34,10 +34,7 @@ Hoping to become the greatest programmer of all time one day, life-long goal.
 -My own 3d Game Engine with C++ (only 3d (private project)) ~ 6/02/26<br>
 
 # 🌱 I am currently learning:
--Data Science<br>
 -Advanced Cyber Security<br>
--Advanced Simulations with C++<br> 
--Go/Golang<br>
 -Advanced Machine Learning<br>
 
 # 🧠 What I hope to learn in the future:
