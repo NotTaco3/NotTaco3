@@ -34,13 +34,13 @@ Hoping to become the greatest programmer of all time one day, life-long goal.
 -My own 3d Game Engine with C++ (only 3d (private project)) ~ 6/02/26<br>
 
 # 🌱 I am currently learning:
+-More physics and programming simulations that are more realistic<br>
+-Robotics @techmatics<br>
 -Advanced Cyber Security<br>
 -Advanced Machine Learning<br>
 
 # 🧠 What I hope to learn in the future:
--Robotics<br>
--More physics and programming simulations that are more realistic<br>
--More frameworks to make programming easier and smoother<br>
+No idea I have done many things & don't know what else I want/need to learn.
 
 # 🔗 Links
 -My [Twitter](https://x.com/TacoDevelopz)<br>
